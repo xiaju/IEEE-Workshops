@@ -1,4 +1,5 @@
 import time
+import datetime
 
 def main():
 	print("Hello World, it's {0}!".format(time.strftime("%c")))
