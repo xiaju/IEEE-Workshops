@@ -7,5 +7,4 @@ int main()
 {
   std::cout << "Hello World!\n";
   std::cout << "Git is the best...\n";
-  std::cout << "Can I see a difference?\n";
 }
