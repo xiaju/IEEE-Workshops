@@ -1,4 +1,7 @@
 #print hi
+#!/usr/bin/python3.4
+import string
 def main():
-    print("Hi")
+    data = str(input("Your name:"))
+    print("Hi" + data)
 main()
